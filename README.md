@@ -1,5 +1,7 @@
 # astro-calc
 
+Chủ sở hữu: Đinh Trần Tuấn Linh. Copyright (C) 2026 Đinh Trần Tuấn Linh.
+
 Dịch vụ HTTP nhỏ tính vị trí thiên thể bằng [Kerykeion](https://github.com/g-battaglia/kerykeion) (dùng nguyên bản, không sửa).
 Giấy phép: **AGPL-3.0-or-later** (xem `LICENSE`), giống Kerykeion và libephemeris.
 
